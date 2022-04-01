@@ -17,7 +17,7 @@
 
 ![LucaasEmanueel GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucaasEmanueel&show_icons=true)
 
-<img src="https://camo.githubusercontent.com/f2a7d41e8a3a2eb5ccaf0f30c2834195c65d03013b26a575d0a35f921af8dde5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d657269636b7376616775696c617226686964653d7374617273" alt="Lucas' github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=LucaasEmanueel&amp;hide=stars" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/7a10235a662b1f4f1d782a766003bdfce1ce3770259d30842f168f7bfa35912f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d657269636b7376616775696c6172" alt="Lucas' wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=LucaasEmanueel" style="max-width: 100%;">
 
 <a target="_blank" href="https://www.linkedin.com/in/lucas-emanuel/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
